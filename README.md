@@ -1,4 +1,4 @@
-This Project is Made By R.Sanjheev
+React app to fetch nested json object from an api and process those json to display data
 
 FrontEnd - HTML,CSS3,Bootstrap,antd,ReactJS
 
